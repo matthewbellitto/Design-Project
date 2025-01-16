@@ -1,0 +1,94 @@
+body{
+    background-color: grey;
+}
+/*This is the css for my navagation bar*/
+.topnav {
+    background-color: rgb(42, 40, 40);
+    height: 48px;
+    overflow: hidden;
+  }
+  .topnav a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  .topnav a:hover {
+    background-color: white;
+    color: black;
+  }
+  .topnav a.active {
+    background-color: red;
+    color: white;
+  }
+  /*This code is for my header*/
+  .ok{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 38px;
+  }
+  /*This code is for my login and sign up pages*/
+.loginandsignup {
+    background-color: lightgray;
+    position: relative;
+    left: 800px;
+    bottom: 47px;
+}
+#steak {
+  position: relative;
+  top: 200px;
+  left: 230px;
+}
+.Westt {
+  position: relative;
+  bottom: 115px;
+  left: 250px;
+  color: white;
+}
+.Maikosushi {
+  position: relative;
+  bottom: 130px;
+  left: 800px;
+}
+.maiko {
+  position: relative;
+  bottom: 443px;
+  left: 860px;
+  color: white;
+}
+.batonrouge {
+  position: relative;
+  bottom: 80px;
+  left: 100px;
+}
+.baton {
+  position: relative;
+  bottom: 394px;
+  left: 165px;
+  color: white;
+}
+.lhamburger {
+  position: relative;
+  left: 520px;
+  bottom: 411px;
+}
+.burger {
+  color: white;
+  position: relative;
+  left: 578px;
+  bottom: 723px;
+}
+.latratt {
+  position: relative;
+  left: 900px;
+  bottom: 747px;
+}
+.tratt {
+  color: white;
+  position: relative;
+  left: 970px;
+  bottom: 1055px;
+}

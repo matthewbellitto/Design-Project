@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #f8f8f8; /* Neutral background for a classic steakhouse feel */
+    color: #333;
+}
+
+h1 {
+    margin: 20px 0;
+    color: #8B0000; /* Deep red to reflect a steakhouse theme */
+}
+
+.description {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    line-height: 1.6;
+    text-align: left;
+}
+
+.description a {
+    color: #8B0000;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.description a:hover {
+    text-decoration: underline;
+}
+
+h2 {
+    color: #8B0000;
+    margin-top: 30px;
+}
+
+.menu {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: left;
+}
+
+.menu ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.menu li {
+    margin-bottom: 10px;
+}
+
+.menu li strong {
+    color: #333;
+}
